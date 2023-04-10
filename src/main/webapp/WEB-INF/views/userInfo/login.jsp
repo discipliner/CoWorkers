@@ -19,7 +19,7 @@
 
 <div id="wrap" class="wrap">
     <div class="main-top">
-        <header id="header" class="header">Crunch Mode?</header>
+        <header id="header" class="header">Crunch Mode!</header>
     </div>
     <div id="container" class="container" style="margin-top: 30px;">
         <form action="loginOK" method="post">
