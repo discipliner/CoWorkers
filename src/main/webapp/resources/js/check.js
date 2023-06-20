@@ -25,7 +25,7 @@ function memoCheck(obj) {
 
     // if (accountList.indexOf(obj.accountID.value) === -1) {
     if (!accountList.includes(obj.accountID.value)) {
-        window.alert('받는이가 존재하지 않습니다.')
+        window.alert('받는이(' + obj.accountID.value + ')가 존재하지 않습니다.')
         obj.accountID.focus();
         return false;
     }

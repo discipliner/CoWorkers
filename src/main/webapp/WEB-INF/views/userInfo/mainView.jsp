@@ -15,25 +15,25 @@
                 <div class="col-xs-6 col-sm-3 placeholder">
                     <img src="./images/crunchMode.png" width="200" height="200" class="img-responsive"
                          alt="Generic placeholder thumbnail">
-                    <h4>Kyle Kwak (곽규창)</h4>
+                    <h4>Kyle (곽규창)</h4>
                     <span class="text-muted">Team Leader</span>
                 </div>
                 <div class="col-xs-6 col-sm-3 placeholder">
                     <img src="./images/crunchMode.png" width="200" height="200" class="img-responsive"
                          alt="Generic placeholder thumbnail">
-                    <h4>Anbin Cho (조우철)</h4>
+                    <h4>Anbin (조우철)</h4>
                     <span class="text-muted">Team Member</span>
                 </div>
                 <div class="col-xs-6 col-sm-3 placeholder">
                     <img src="./images/crunchMode.png" width="200" height="200" class="img-responsive"
                          alt="Generic placeholder thumbnail">
-                    <h4>Terry Kim (김태형)</h4>
+                    <h4>Terry (김태형)</h4>
                     <span class="text-muted">Team Member</span>
                 </div>
                 <div class="col-xs-6 col-sm-3 placeholder">
                     <img src="./images/crunchMode.png" width="200" height="200" class="img-responsive"
                          alt="Generic placeholder thumbnail">
-                    <h4>Emma Heo (허은성)</h4>
+                    <h4>Emma (허은성)</h4>
                     <span class="text-muted">Team Member</span>
                 </div>
             </div>

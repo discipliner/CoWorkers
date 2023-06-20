@@ -154,6 +154,9 @@ public class MemoController {
         memoDTO = service.selectByMemoID(memoID);
         model.addAttribute("mDTO", memoDTO);
         log.info("MemoController memoReply()");
+        List<String> allAccountID = service.allAccountID();
+        log.info("accountList: {}",allAccountID);
+        model.addAttribute("allAccountID", allAccountID);
         return "memo/memoReply";
     }
 
