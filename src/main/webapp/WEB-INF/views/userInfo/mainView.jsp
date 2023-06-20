@@ -77,7 +77,7 @@
                         <td>일정/긴급업무별 리스트 호출</td>
                     </tr>
                     <tr>
-                        <td rowspan="4" style="vertical-align: middle;">2차 프로젝트 주요 업무</td>
+                        <td rowspan="5" style="vertical-align: middle;">2차 프로젝트 주요 업무</td>
                         <td>파일 업, 다운로드</td>
                         <td>ci/cd, 쪽지기능</td>
                         <td>회원가입 제약조건 추가</td>
