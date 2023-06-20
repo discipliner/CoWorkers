@@ -80,7 +80,7 @@
                         <td>파일 업, 다운로드</td>
                         <td>ci/cd</td>
                         <td>회원가입 제약조건 추가</td>
-                        <td>일정 페이지 버그 수정</td>
+                        <td></td>
                     </tr>
                     </tbody>
                 </table>
