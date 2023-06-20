@@ -60,7 +60,7 @@
                     <tr>
                         <td rowspan="4" style="vertical-align: middle;">주요 업무</td>
                         <td>MVC 패턴, DB 모델링</td>
-                        <td>업무 페이지 구현</td>
+                        <td>업무 페이지, 쪽지기능 구현</td>
                         <td>로그인/로그아웃 구현</td>
                         <td>일정확인용 달력 구현</td>
                     </tr>
@@ -78,7 +78,7 @@
                     </tr>
                     <tr>
                         <td>파일 업, 다운로드</td>
-                        <td>ci/cd, 쪽지기능</td>
+                        <td>ci/cd</td>
                         <td>회원가입 제약조건 추가</td>
                         <td>일정 페이지 버그 수정</td>
                     </tr>
