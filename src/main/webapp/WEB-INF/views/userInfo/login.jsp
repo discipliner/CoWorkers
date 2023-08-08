@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, height=device-height initial-scale=1">
-    <title>로그인 화면</title>
+    <title>로그인</title>
     <link rel="icon" href="images/favicon_16.png">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="css/login.css">
